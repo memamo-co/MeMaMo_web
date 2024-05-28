@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MeMaMo_web/static/css/main.1648b918.css",
-    "main.js": "/MeMaMo_web/static/js/main.22c35c4e.js",
+    "main.css": "/MeMaMo_web/static/css/main.aab776e3.css",
+    "main.js": "/MeMaMo_web/static/js/main.eafb472c.js",
     "static/media/background-home-desktop.jpg": "/MeMaMo_web/static/media/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg",
     "static/media/background-destination-desktop.jpg": "/MeMaMo_web/static/media/background-destination-desktop.468b922c69bf5499b4bc.jpg",
     "static/media/background-home-tablet.jpg": "/MeMaMo_web/static/media/background-home-tablet.bc9efcc3281fa6801077.jpg",
@@ -13,12 +13,11 @@
     "static/media/background-technology-tablet.jpg": "/MeMaMo_web/static/media/background-technology-tablet.48c38b028217ee0096c4.jpg",
     "static/media/background-destination-mobile.jpg": "/MeMaMo_web/static/media/background-destination-mobile.e0131e27e751ead1a922.jpg",
     "index.html": "/MeMaMo_web/index.html",
-    "static/media/index.cjs": "/MeMaMo_web/static/media/index.cd351d7c31d0d3fccf96.cjs",
-    "main.1648b918.css.map": "/MeMaMo_web/static/css/main.1648b918.css.map",
-    "main.22c35c4e.js.map": "/MeMaMo_web/static/js/main.22c35c4e.js.map"
+    "main.aab776e3.css.map": "/MeMaMo_web/static/css/main.aab776e3.css.map",
+    "main.eafb472c.js.map": "/MeMaMo_web/static/js/main.eafb472c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1648b918.css",
-    "static/js/main.22c35c4e.js"
+    "static/css/main.aab776e3.css",
+    "static/js/main.eafb472c.js"
   ]
 }
