@@ -1,0 +1,130 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "name": "LoLocal",
+      "images": {
+        "png": "./assets/destination/LoLocal.png",
+        "webp": "./assets/destination/image-moon.webp"
+      },
+      "description": "LoLocal is a multi-purpoe and multi-vendor online platform that allows you to order groceries, medicines, food parcels, and eCommerce items from local nearby sellers.In the coming months, LoLocal aims to introduce car sharing and booking professional services.      ",
+      "distance": "4.2 ",
+      "travel": "513 "
+    },
+    {
+      "id": 2,
+      "name": "Money App",
+      "images": {
+        "png": "./assets/destination/57_preview57.png",
+        "webp": "./assets/destination/image-mars.webp"
+      },
+      "description": " Money App helps you analyze and manage your periodic financial expenses, track credit card payment dues, manage call logs, and filter SMS into relevant groups.In the coming months, Money App aims to introduce text-to-speech and speech-to-text functionality for SMS to bring ease for drivers and retail sellers.",
+      "distance": "4.2",
+      "travel": "453 "
+    },
+    {
+      "id": 3,
+      "name": "Dating App",
+      "images": {
+        "png": "./assets/destination/DatApp.png",
+        "webp": "./assets/destination/image-europa.webp"
+      },
+      "description": "Dating App isn’t just another social media platform that only lets you post text and videos, chat, call and go live. It allows you to find Jobs, Dating partner, nearby discounts, buy event tickets, conduct competitions online, etc.",
+      "distance": "4.4 ",
+      "travel": "309 "
+    },
+    {
+      "id": 4,
+      "name": "Matrimony App",
+      "images": {
+        "png": "./assets/destination/Dat2 (1).jpg",
+        "webp": "./assets/destination/image-matrimony app.webp"
+      },
+      "description": " Matrimonial app is unique among other online matrimonial apps because it's only for vegetarians, vegans, and those curious about veganism.   It allows you to make audio and video calls instead of sharing phone numbers.",
+      "distance": "4.1 ",
+      "travel": "345 "
+    },
+    {
+      "id": 5,
+      "name": "Gaming App",
+      "images": {
+        "png": "./assets/destination/Dat2 (1).jpg",
+        "webp": "./assets/destination/image-matrimony app.webp"
+      },
+      "description": " Matrimonial app is unique among other online matrimonial apps because it's only for vegetarians, vegans, and those curious about veganism.   It allows you to make audio and video calls instead of sharing phone numbers.",
+      "distance": "4.1 ",
+      "travel": "345 "
+    }
+  ],
+  "crew": [
+    {
+      "id": 1,
+      "name": "Anmol Grover",
+      "images": {
+        "png": "./assets/crew/Anmol 1(2).svg",
+        "webp": "./assets/crew/image-anousheh-ansari.webp"
+      },
+      "role": "Senior Project Lead",
+      "bio": "Anmol Grover is a tech enthusiast. He has been working on frontend using Flutter, JavaScript, HTML, and CSS, and on backend using Laravel, Golang, and Firebase."
+    },
+    {
+      "id": 2,
+      "name": "Akaram Saifi",
+      "images": {
+        "png": "./assets/crew/image-mark-shuttleworth.png",
+        "webp": "./assets/crew/image-mark-shuttleworth.webp"
+      },
+      "role": "Cloud Solution Architect",
+      "bio": "Akaram has expertise in administration, automation, and operations across various platforms such as UNIX, LINUX, and Windows on physical data centers, as well as public cloud platforms like AWS. He is also proficient in various DevOps tools including Docker, Kubernetes, Jenkins, Ansible, Terraform, Git, and Chef."
+    },
+    {
+      "id": 3,
+      "name": "Rohan Kumar",
+      "images": {
+        "png": "./assets/crew/image-victor-glover.png",
+        "webp": "./assets/crew/image-victor-glover.webp"
+      },
+      "role": "IoT Solution Architect",
+      "bio": "Rohan has experience as an IoT Architect and as a specialist in Smart Electric charging station architecture development (OCPP1.6 and OCPP2.0.2). He has extensive coding experience using Golang, Python, Spark, Javascript, and Node.js. Rohan has worked on Cloud APIs at scale,  MySQL to MongoDB database migrations, and cloud server setup on Linux development environment on AWS."
+    },
+    {
+      "id": 4,
+      "name": "Harminder Pal",
+      "images": {
+        "png": "./assets/crew/image-anousheh-ansai.png",
+        "webp": "./assets/crew/image-anousheh-ansari.webp"
+      },
+      "role": "Angel Investor",
+      "bio": "Harminder is an Indian entrepreneur and investor who is passionate about investing, neuroscience and marketing.He has technical expertise in AI and ML using Python. Harminder also has extensive experience in IT operations management."
+    }
+  ],
+  "technology": [
+    {
+      "id": 1,
+      "name": "Launch vehicle",
+      "images": {
+        "portrait": "./assets/technology/image-launch-vehicle-portrait.jpg",
+        "landscape": "./assets/technology/image-launch-vehicle-landscape.jpg"
+      },
+      "description": "A launch vehicle or carrier rocket is a rocket-propelled vehicle used to carry a payload from Earth's surface to space, usually to Earth orbit or beyond. Our WEB-X carrier rocket is the most powerful in operation. Standing 150 metres tall, it's quite an awe-inspiring sight on the launch pad!"
+    },
+    {
+      "id": 2,
+      "name": "Spaceport",
+      "images": {
+        "portrait": "./assets/technology/image-spaceport-portrait.jpg",
+        "landscape": "./assets/technology/image-spaceport-landscape.jpg"
+      },
+      "description": "A spaceport or cosmodrome is a site for launching (or receiving) spacecraft, by analogy to the seaport for ships or airport for aircraft. Based in the famous Cape Canaveral, our spaceport is ideally situated to take advantage of the Earth’s rotation for launch."
+    },
+    {
+      "id": 3,
+      "name": "Space capsule",
+      "images": {
+        "portrait": "./assets/technology/image-space-capsule-portrait.jpg",
+        "landscape": "./assets/technology/image-space-capsule-landscape.jpg"
+      },
+      "description": "A space capsule is an often-crewed spacecraft that uses a blunt-body reentry capsule to reenter the Earth's atmosphere without wings. Our capsule is where you'll spend your time during the flight. It includes a space gym, cinema, and plenty of other activities to keep you entertained."
+    }
+  ]
+}

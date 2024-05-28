@@ -1,0 +1,94 @@
+.app-download-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px; /* Adjust this value if the overall spacing between major elements is too large */
+}
+
+.logo-container {
+    width: 300px; /* Or your preferred size */
+    height: 300px; /* Or your preferred size, should match width for square aspect ratio */
+    background-color: rgba(255, 255, 255, 0.76); 
+    border-radius: 30%; /* Provides the distinctive iOS icon curvature */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-width: 0;
+    box-shadow: 0 1px 2px 0 rgba(60,64,67,.3), 0 1px 3px 1px rgba(60,64,67,.15);
+    overflow: hidden; /* Ensures nothing spills outside the rounded corners */
+    padding: 20px;
+    min-width: 300px; /* Ensures the logo container does not shrink beyond this width */
+}
+
+.logo-container img {
+    display: block;
+    max-width: 80%; /* Adjust based on your logo's size to fit within the container */
+    height: auto;
+    margin: auto; /* Center the image within the container */
+    transform: scale(1.1); /* Slightly enlarges the image */
+    border-radius: 12%;
+}
+
+.name-tagline-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.app-name, .app-tagline {
+    margin: 0; /* Ensures no extra space is added from default styles */
+}
+
+.download-buttons {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center; /* Center-align the buttons if not already */
+    gap: 5px; /* Reduces the gap between the two buttons, adjust as needed */
+}
+
+.button-link {
+    border: none;
+    display: inline-block;
+    padding: 0;
+    margin: 0; /* Removes any default margin */
+    line-height: 0; /* Reduces extra space inside the link element, might help tighten up spacing */
+}
+
+.store-badge {
+    width: 190px; /* Maintain the width */
+    height: auto; /* Explicitly set the height to reduce vertical space */
+    display: block;
+    margin: auto; /* This centers the SVG inside its container */
+    object-fit: contain; /* This ensures the image is scaled correctly within the given dimensions */
+    padding: 2px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .app-download-container {
+        flex-direction: column; /* Stack elements vertically on smaller screens */
+        gap: 10px; /* Adjust the gap for vertical stacking */
+    }
+    .logo-container {
+        width: 200px; /* Or your preferred size */
+        height: 200px; /* Or your preferred size, should match width for square aspect ratio */
+        background-color: rgba(255, 255, 255, 0.76); 
+        border-radius: 30%; /* Provides the distinctive iOS icon curvature */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-width: 0;
+        box-shadow: 0 1px 2px 0 rgba(60,64,67,.3), 0 1px 3px 1px rgba(60,64,67,.15);
+        overflow: hidden; /* Ensures nothing spills outside the rounded corners */
+        padding: 20px;
+        min-width: 200px; /* Ensures the logo container does not shrink beyond this width */
+    }
+
+    .store-badge {
+        width: 200px; /* Adjust the badge size for smaller screens */
+        height: auto; /* Maintain aspect ratio */
+    }
+}
