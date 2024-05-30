@@ -21,7 +21,7 @@ const Navbar = () => {
       <div className="my-2 md:my-10 ml-5 mr-5 md:mr-0 md:ml-10 flex py-6 pl-4">
         <img
           className="w-12 md:w-14 h-12 md:h-14"
-          src="./assets/shared/logo.svg"
+          src="./assets/shared/.svg"
           alt="logo"
         />
         <nav className="hidden md:block h-0.5 w-[38%] bg-gray-600 relative top-6 left-16 z-0"></nav>
