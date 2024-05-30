@@ -4,7 +4,7 @@
       "id": 1,
       "name": "LoLocal",
       "images": {
-        "png": "./assets/destination/lolocal.png",
+        "png": "build/assets/destination/lolocal.png",
         "webp": "./assets/destination/lolocal.png"
       },
       "description": "LoLocal is a multi-purpoe and multi-vendor online platform that allows you to order groceries, medicines, food parcels, and eCommerce items from local nearby sellers.In the coming months, LoLocal aims to introduce car sharing and booking professional services.      ",
@@ -56,7 +56,7 @@
       "travel": "345 "
     }
   ],
-  "crew": [
+  "crews": [
     {
       "id": 1,
       "name": "Anmol Grover",
@@ -64,8 +64,8 @@
         "png": "/assets/destination/",
         "webp": "./assets/crew/image-anousheh-ansari.webp"
       },
-      "role": "Senior Project Lead",
-      "bio": "Anmol Grover is a tech enthusiast. He has been working on frontend using Flutter, JavaScript, HTML, and CSS, and on backend using Laravel, Golang, and Firebase."
+      "distance": "Senior Project Lead",
+      "description": "Anmol Grover is a tech enthusiast. He has been working on frontend using Flutter, JavaScript, HTML, and CSS, and on backend using Laravel, Golang, and Firebase."
     },
     {
       "id": 2,
@@ -74,8 +74,8 @@
         "png": "./assets/crew/image-mark-shuttleworth.png",
         "webp": "./assets/crew/image-mark-shuttleworth.webp"
       },
-      "role": "Cloud Solution Architect",
-      "bio": "Akaram has expertise in administration, automation, and operations across various platforms such as UNIX, LINUX, and Windows on physical data centers, as well as public cloud platforms like AWS. He is also proficient in various DevOps tools including Docker, Kubernetes, Jenkins, Ansible, Terraform, Git, and Chef."
+      "distance": "Cloud Solution Architect",
+      "description": "Akaram has expertise in administration, automation, and operations across various platforms such as UNIX, LINUX, and Windows on physical data centers, as well as public cloud platforms like AWS. He is also proficient in various DevOps tools including Docker, Kubernetes, Jenkins, Ansible, Terraform, Git, and Chef."
     },
     {
       "id": 3,
@@ -84,8 +84,8 @@
         "png": "./assets/crew/image-victor-glover.png",
         "webp": "./assets/crew/image-victor-glover.webp"
       },
-      "role": "IoT Solution Architect",
-      "bio": "Rohan has experience as an IoT Architect and as a specialist in Smart Electric charging station architecture development (OCPP1.6 and OCPP2.0.2). He has extensive coding experience using Golang, Python, Spark, Javascript, and Node.js. Rohan has worked on Cloud APIs at scale,  MySQL to MongoDB database migrations, and cloud server setup on Linux development environment on AWS."
+      "distance": "IoT Solution Architect ",
+      "description": "Rohan has experience as an IoT Architect and as a specialist in Smart Electric charging station architecture development (OCPP1.6 and OCPP2.0.2). He has extensive coding experience using Golang, Python, Spark, Javascript, and Node.js. Rohan has worked on Cloud APIs at scale,  MySQL to MongoDB database migrations, and cloud server setup on Linux development environment on AWS."
     },
     {
       "id": 4,
@@ -94,8 +94,9 @@
         "png": "public/assets/crew/image-anousheh-ansai.png",
         "webp": "./assets/crew/image-anousheh-ansari.webp"
       },
-      "role": "Angel Investor",
-      "bio": "Harminder is an Indian entrepreneur and investor who is passionate about investing, neuroscience and marketing.He has technical expertise in AI and ML using Python. Harminder also has extensive experience in IT operations management."
+      "distance": "Angel Investor",
+      "description": "Harminder is an Indian entrepreneur and investor who is passionate about investing, neuroscience and marketing.He has technical expertise in AI and ML using Python. Harminder also has extensive experience in IT operations management."
+ 
     }
   ],
   "technology": [
