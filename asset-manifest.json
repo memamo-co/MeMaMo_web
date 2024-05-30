@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MeMaMo_web/static/css/main.aab776e3.css",
-    "main.js": "/MeMaMo_web/static/js/main.5944f33f.js",
+    "main.js": "/MeMaMo_web/static/js/main.be184c23.js",
     "static/media/background-home-desktop.jpg": "/MeMaMo_web/static/media/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg",
     "static/media/background-destination-desktop.jpg": "/MeMaMo_web/static/media/background-destination-desktop.468b922c69bf5499b4bc.jpg",
     "static/media/background-home-tablet.jpg": "/MeMaMo_web/static/media/background-home-tablet.bc9efcc3281fa6801077.jpg",
@@ -14,10 +14,10 @@
     "static/media/background-destination-mobile.jpg": "/MeMaMo_web/static/media/background-destination-mobile.e0131e27e751ead1a922.jpg",
     "index.html": "/MeMaMo_web/index.html",
     "main.aab776e3.css.map": "/MeMaMo_web/static/css/main.aab776e3.css.map",
-    "main.5944f33f.js.map": "/MeMaMo_web/static/js/main.5944f33f.js.map"
+    "main.be184c23.js.map": "/MeMaMo_web/static/js/main.be184c23.js.map"
   },
   "entrypoints": [
     "static/css/main.aab776e3.css",
-    "static/js/main.5944f33f.js"
+    "static/js/main.be184c23.js"
   ]
 }
